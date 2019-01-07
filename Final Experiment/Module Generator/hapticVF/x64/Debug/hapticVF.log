@@ -1,0 +1,19 @@
+﻿Build started 1/13/2014 3:16:22 PM.
+     1>Project "C:\Users\yasmi_000\Documents\Visual Studio 2010\Projects\hapticVF\hapticVF\hapticVF.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\hapticVF.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yasmi_000\Documents\Visual Studio 2010\Projects\hapticVF\x64\Debug\hapticVF.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\chai3d-2.0.0\external\OpenGL\msvc" /LIBPATH:"C:\chai3d-2.0.0\lib\msvc10" winmm.lib opengl32.lib glut32.lib "chai3d-debug.lib" glu32.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\hapticVF.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yasmi_000\Documents\Visual Studio 2010\Projects\hapticVF\x64\Debug\hapticVF.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yasmi_000\Documents\Visual Studio 2010\Projects\hapticVF\x64\Debug\hapticVF.lib" /MACHINE:X64 x64\Debug\hapticVF.exe.embed.manifest.res
+         x64\Debug\hapticVF.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\VFblock.obj
+     1>chai3d-debug.lib(CExtras.obj) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "C:\Users\yasmi_000\Documents\Visual Studio 2010\Projects\hapticVF\hapticVF\hapticVF.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.50

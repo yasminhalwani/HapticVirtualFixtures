@@ -1,0 +1,148 @@
+=========================================
+FACE 6
+
+	test->getVertex(0, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(3, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(5, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(7, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(9, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(10, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(13, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(14, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(16, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(18, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(20, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(24, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(26, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(28, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(30, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(32, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(34, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(36, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(38, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(22, true)->translate(cVector3d(0, -0.2, -0.2));
+
+=========================================
+FACE 5
+
+	test->getVertex(1, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(2, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(4, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(6, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(8, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(11, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(12, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(15, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(17, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(19, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(23, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(27, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(29, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(31, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(33, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(35, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(37, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(44, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(25, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(21, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(47, true)->translate(cVector3d(0, -0.2, -0.2));
+
+=========================================
+FACE 4
+
+	test->getVertex(39, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(40, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(41, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(42, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(43, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(45, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(46, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(48, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(49, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(50, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(52, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(53, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(54, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(55, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(56, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(57, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(58, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(59, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(65, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(68, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(51, true)->translate(cVector3d(0, -0.2, -0.2));
+
+=========================================
+FACE 3 
+
+	test->getVertex(60, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(61, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(62, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(63, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(64, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(66, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(67, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(69, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(70, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(71, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(73, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(74, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(75, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(76, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(77, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(78, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(79, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(80, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(86, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(89, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(72, true)->translate(cVector3d(0, -0.2, -0.2));
+
+==========================================
+FACE 2
+
+	test->getVertex(81, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(82, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(83, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(84, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(85, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(87, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(88, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(90, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(91, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(92, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(94, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(95, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(96, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(97, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(98, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(99, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(100, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(101, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(107, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(110, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(93, true)->translate(cVector3d(0, -0.2, -0.2));
+
+==========================================
+FACE 1
+
+	test->getVertex(102, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(103, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(104, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(105, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(106, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(108, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(109, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(111, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(112, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(113, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(115, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(116, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(117, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(118, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(119, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(120, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(121, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(122, true)->translate(cVector3d(0, -0.2, -0.2));
+	test->getVertex(114, true)->translate(cVector3d(0, -0.2, -0.2));
+
+==========================================

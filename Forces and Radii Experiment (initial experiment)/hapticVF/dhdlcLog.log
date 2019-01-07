@@ -1,0 +1,5 @@
+[dhdlcImp::dhdlcImp():19.07.41.0004] - Constructor called
+[dhdlcImp::init():19.07.41.0619] - init(14101450,(null))
+[dhdlcImp::init():19.07.41.3127] - dhdOpen() returned 0
+[dhdlcImp::init():19.07.41.4717] - DeviceSN = 14101450
+[dhdlcImp::init():19.07.41.4718] - Returning
